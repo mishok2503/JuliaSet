@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1585577571 source:c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\main.cpp
+	<SFML/Graphics.hpp>
+	<bits/stdc++.h>
+	"TextField.h"
+
+1582884348 source:c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\src\rld.cpp
+
+1582884335 c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\include\rld.h
+	<bits/stdc++.h>
+
+1583008012 source:c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\long_complex.cpp
+	<bits/stdc++.h>
+
+1584955544 source:c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\menu.cpp
+	"TextField.h"
+
+1585576533 c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\textfield.h
+	<string>
+	<SFML/Graphics.hpp>
+
+1585754878 source:c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\textfield.cpp
+	<string>
+	<iostream>
+	<SFML/Graphics.hpp>
+	"TextField.h"
+
+1584955449 c:\users\user\desktop\programming\c++\projects\cb projects\mondelbrot\menu.cpp
+	"TextField.h"
+
